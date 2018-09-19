@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".AppCompatActivity" />
+        <activity android:name=".SpinnerKings"></activity>
     </application>
 
 </manifest>
